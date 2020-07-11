@@ -31,3 +31,7 @@ My name is Tony Rapozo 👨‍💻. I am a software developer and have experienc
 
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4486f9?style=for-the-badge)](https://github.com/tonyrapozo/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-ff9801?style=for-the-badge)](https://github.com/tonyrapozo/)
+
+##
+
+[![Linkedin Badge](https://img.shields.io/badge/Reach_me_at:-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/tonyrapozo/)
