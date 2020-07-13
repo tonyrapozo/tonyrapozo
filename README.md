@@ -5,7 +5,7 @@ My name is Tony Rapozo 👨‍💻. I am a software developer and have experienc
 
  - 🔭 I’m currently working on ReactJS, NodeJS and .NetCore.
  - 🌱 I’m currently learning more about microservices, artificial intelligence and rocket science.
- - ⚡ Fun fact: I still want to do a rocket 🚀.
+ - ⚡ Fun fact: I still want to build a rocket 🚀.
 
 
 [![NetCore](https://img.shields.io/badge/.netCore-red.svg?style=for-the-badge&colorB=9E20C8)](https://github.com/tonyrapozo)
