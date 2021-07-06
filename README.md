@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Tony Rapozo 👨‍💻. I am a software developer and have experience in working in some companies as Full stack Developer.
+My name is Tony Rapozo 👨‍💻. I am a software developer and have experience working on some companies as Full stack Developer.
 
 
- - 🔭 I’m currently working on ReactJS, NodeJS and .NetCore.
+ - 🔭 I’m currently working with ReactJS, NodeJS and .NetCore.
  - 🌱 I’m currently learning more about microservices, artificial intelligence and rocket science.
  - ⚡ Fun fact: I still want to build a rocket 🚀.
 
